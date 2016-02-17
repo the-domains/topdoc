@@ -1,0 +1,28 @@
+name: TopDoc
+favicon: null
+layout_spectrum: 0.45272132265381515
+typography_spectrum: 0.5406555326189846
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4129691803827882
+  lightness: 0.2394872708246112
+  saturation: 0.25552236032672226
+  rhythmicContrast: 0.9721945414785296
+purpose: []
